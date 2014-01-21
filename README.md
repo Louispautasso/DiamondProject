@@ -1,0 +1,3 @@
+DiamondProject
+==============
+README PLZ
